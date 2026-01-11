@@ -31,12 +31,12 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 *A mobile application built to solve the "where is my classroom?" problem for new students.*
 * **Key Features:** Room search, visual door previews, and a "Favorites" system for quick access.
 * **Built with:** Java, Android Studio.
-* **Role:** [Full-Stack Developer] — I developed a custom Favorites system using local data persistence.
+* **Role:** Full-Stack Developer — I developed a custom Favorites system using local data persistence.
 
-#### 🏗️ Laravel Full-Stack Project
+#### 🏗️ Barangay Snippet Digitalized Document Requesting System: Laravel Full-Stack Project
 *A comprehensive web application developed as a final group project.*
 * **Tech Stack:** Laravel, Tailwind CSS, and **MySQL** for robust data management.
-* **Role:** [Full-Stack Developer] — I engineered a dynamic Search and Filter system—the most technically challenging part of the build.
+* **Role:** Full-Stack Developer — I engineered a dynamic Search and Filter system—the most technically challenging part of the build.
 
 ---
 
