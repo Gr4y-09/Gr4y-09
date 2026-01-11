@@ -7,19 +7,19 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 
 ### 🛠️ Tech Stack
 
-**Frontend & Design**
+**Frontend & Design**<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Mobile**
+**Backend & Mobile**<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Database Management**
+**Database Management**<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Relational Databases](https://img.shields.io/badge/Database-Relational%20Design-blue?style=for-the-badge&logo=databricks&logoColor=white)
 
@@ -34,8 +34,9 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 * **Role:** Full-Stack Developer — I developed a custom Favorites system using local data persistence.
 
 #### 🏗️ Barangay Snippet Digitalized Document Requesting System: Laravel Full-Stack Project
-*A comprehensive web application developed as a final group project.*
-* **Tech Stack:** Laravel, Tailwind CSS, and **MySQL** for robust data management.
+*A web application developed as a final group project.*
+* **Key Features:** A User can request a digital copy document of a document they need without needing to go to the Barangay Hall to claim it themselves.
+* **Built with:** Laravel, Tailwind CSS, and **MySQL** for robust data management.
 * **Role:** Full-Stack Developer — I engineered a dynamic Search and Filter system—the most technically challenging part of the build.
 
 ---
