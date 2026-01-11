@@ -50,7 +50,7 @@ When I'm not debugging, you can find me:
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email Address]
+* **LinkedIn:** [View Here!](https://www.linkedin.com/in/nanelle-tuguinay/)
+* **Email:** nanelle.tuguinay@my.jru.edu
 
 *"I didn't choose the board exam life, but I definitely chose the dev life."* 💻✨
